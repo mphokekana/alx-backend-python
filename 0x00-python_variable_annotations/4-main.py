@@ -9,4 +9,3 @@ print("pi is a {} with a value of {}".format(type(pi), pi))
 print("i_understand_annotations is a {} with a value of {}"
     .format(type(i_understand_annotations), i_understand_annotations))
 print("school is a {} with a value of {}".format(type(school), school))
-
